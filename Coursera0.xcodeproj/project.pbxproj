@@ -193,7 +193,6 @@
 				TargetAttributes = {
 					A3DF7D761D61F12400A4BF3F = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = U7QP74VVPV;
 					};
 					A3DF7D8A1D61F12500A4BF3F = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -404,6 +403,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Coursera0/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dani.Coursera0;
@@ -415,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Coursera0/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dani.Coursera0;
